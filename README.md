@@ -1,6 +1,3 @@
-এখানে সম্পূর্ণ সাজানো-গোছানো README.md ফাইলটি দেওয়া হলো। এটি সরাসরি কপি করে আপনার GitHub রিপোজিটরিতে পেস্ট করলেই নিখুঁতভাবে প্রদর্শিত হবে।
-
-```markdown
 # 🚀 X3DL Pro Bot – The Ultimate Telegram Media Engine
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
