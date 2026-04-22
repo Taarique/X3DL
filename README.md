@@ -1,4 +1,4 @@
-# 🚀 X3DL Pro Bot – The Ultimate Telegram Media Engine
+# X3DL Pro Bot – The Ultimate Telegram Media Engine
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![Pyrogram](https://img.shields.io/badge/Pyrogram-2.0%2B-orange?logo=telegram)
